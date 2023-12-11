@@ -1,0 +1,4 @@
+# Ignores transaction logs and config files to prevent uploading user-sensitive data
+*Bot
+
+!bot/

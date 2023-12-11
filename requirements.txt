@@ -1,0 +1,3 @@
+REQUIREMENTS:
+  Folder created for new accounts needs to be the person's name followed by "Bot" (i.e. John's Bot) and has to have the config, net profit, simulated net profit, transaction, and simulated transaction files
+  Logging out of one account will logout in all accounts, need corrective action for that
