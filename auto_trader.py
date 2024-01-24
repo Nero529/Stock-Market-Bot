@@ -11,8 +11,7 @@ import time
 #run_code()
 #time.sleep(1)
 #print('\n')
-#adwdasa
-quamez.stock_run(0, False)
+ai_trader.stock_run(0, False)
 # Multiple threads allow for the running of multiple bots at once
 #bot1 = Thread(target=quamez.stock_run, args=[0,True])
 #bot1.start()
